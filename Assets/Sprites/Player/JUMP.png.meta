@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: f1fa09c4839894d4ca47a72f8d4b84c3
+guid: 2b248a3abf397054ca69af787ac3a36c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,7 +63,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -117,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IDLE_0
+      name: SKIP_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 44
-        width: 18
-        height: 33
+        x: 0
+        y: 32
+        width: 23
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d254f2923a6e3ef4e9677e551faf1c74
-      internalID: 1916955197
+      spriteID: c8244a506237dee418849d622893bc88
+      internalID: -1296566571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IDLE_1
+      name: SKIP_1
       rect:
         serializedVersion: 2
-        x: 50
-        y: 44
-        width: 18
-        height: 33
+        x: 23
+        y: 32
+        width: 23
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f7d10c041b3fb44fac53652db6413ee
-      internalID: 1995448936
+      spriteID: e01d99ad51d8ce54fb354d3f4ba2d678
+      internalID: -1087755092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IDLE_2
+      name: SKIP_2
       rect:
         serializedVersion: 2
-        x: 9
-        y: 4
-        width: 19
-        height: 33
+        x: 46
+        y: 32
+        width: 21
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65ae487b26f5f0f488e2f4118277201d
-      internalID: -1636770660
+      spriteID: 4e13c34388b3ec84580bfe63f6424688
+      internalID: 1538101562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IDLE_3
+      name: SKIP_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 4
-        width: 19
-        height: 33
+        x: 23
+        y: 0
+        width: 23
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8aaaf78bba97c94ba4a90e5f7195aeb
-      internalID: -1152214552
+      spriteID: f19df992d67e78c49903522b910b4ead
+      internalID: -1435306902
       vertices: []
       indices: 
       edges: []
@@ -211,10 +210,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      IDLE_2: -1636770660
-      IDLE_0: 1916955197
-      IDLE_3: -1152214552
-      IDLE_1: 1995448936
+      SKIP_1: -1087755092
+      SKIP_0: -1296566571
+      SKIP_2: 1538101562
+      SKIP_3: -1435306902
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

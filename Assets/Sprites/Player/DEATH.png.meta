@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 6d7ba8ea8922e5a4caaa3aa524c7c0c0
+guid: d866894dd0802f141a10d0f89ff832de
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,7 +63,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -117,11 +116,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HURT_0
+      name: DEATH_0
       rect:
         serializedVersion: 2
         x: 9
-        y: 44
+        y: 84
         width: 18
         height: 33
       alignment: 0
@@ -131,18 +130,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 803116f121b1b0a49802316c30ccaa5e
-      internalID: -2050212100
+      spriteID: 8f538b3cadd4f0349b268c89c3a405c3
+      internalID: 195312187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HURT_1
+      name: DEATH_1
       rect:
         serializedVersion: 2
-        x: 8
-        y: 4
+        x: 48
+        y: 84
         width: 20
         height: 33
       alignment: 0
@@ -152,8 +151,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe0022ea392310d41a87d0db507d9814
-      internalID: 1610176792
+      spriteID: eb9b18e6a6162244f91c29f39eb583ec
+      internalID: -1124148594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 44
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4917a1d42982d418d871a2d8c5d185
+      internalID: 47966983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c7c04e9abb13a46878b00e4d77f678
+      internalID: 1793689447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d356a807575e7041bcb8332f1052d96
+      internalID: 1293049474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6da9ec25bdf01469f849df93d6d4a6
+      internalID: 297086351
       vertices: []
       indices: 
       edges: []
@@ -169,8 +252,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      HURT_1: 1610176792
-      HURT_0: -2050212100
+      DEATH_0: 195312187
+      DEATH_5: 297086351
+      DEATH_4: 1293049474
+      DEATH_1: -1124148594
+      DEATH_2: 47966983
+      DEATH_3: 1793689447
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
